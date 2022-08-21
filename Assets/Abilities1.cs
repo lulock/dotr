@@ -10,7 +10,6 @@ public class Abilities1 : MonoBehaviour
     public float cooldown = 5;
     bool[] isCooldown = new bool[4];
     public KeyCode[] ability = new KeyCode[4];
-
     // Start is called before the first frame update
     void Start()
     {
@@ -43,6 +42,7 @@ public class Abilities1 : MonoBehaviour
                 }
             }
         }
+        
     }
 
 }
