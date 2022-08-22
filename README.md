@@ -8,4 +8,4 @@ Free assets from Unity Asset Store:
 - [Spell Icons]()
 - [Enemy Character]()
 
-<img src="/images/screenshot.png" alt="Current State of Game" width="200"/>
+<p align="center"> <img src="/images/screenshot.png" alt="Current State of Game" width="750"/> </p>
